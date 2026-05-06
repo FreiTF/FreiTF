@@ -1,4 +1,3 @@
-# README.md
 # Hola 👋, soy Eli
 
 🎓 Estudiante de Ingeniería Administrador en Sistemas
